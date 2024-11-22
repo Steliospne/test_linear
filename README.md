@@ -5,3 +5,5 @@ This is another new line. (2)
 
 This is to test,
 Commit sync with magic words.
+
+One more line to make it right.
